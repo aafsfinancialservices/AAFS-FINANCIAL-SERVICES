@@ -1,0 +1,1 @@
+console.log('AAFS website loaded');
